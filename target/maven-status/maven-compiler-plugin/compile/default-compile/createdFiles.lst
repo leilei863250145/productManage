@@ -1,0 +1,11 @@
+DAO\UserDao.class
+servlet\addProductServlet.class
+servlet\getProductListServlet.class
+DAO\ProductDao.class
+filter\AssertLoginedFilter.class
+Vo\Product.class
+filter\EncodingFilter.class
+service\ProductService.class
+service\userService.class
+myUtils\DBUtils.class
+servlet\LoginServlet.class

@@ -1,0 +1,11 @@
+F:\回去用\productManage\src\main\java\servlet\addProductServlet.java
+F:\回去用\productManage\src\main\java\servlet\getProductListServlet.java
+F:\回去用\productManage\src\main\java\filter\EncodingFilter.java
+F:\回去用\productManage\src\main\java\myUtils\DBUtils.java
+F:\回去用\productManage\src\main\java\filter\AssertLoginedFilter.java
+F:\回去用\productManage\src\main\java\Vo\Product.java
+F:\回去用\productManage\src\main\java\DAO\ProductDao.java
+F:\回去用\productManage\src\main\java\DAO\UserDao.java
+F:\回去用\productManage\src\main\java\service\ProductService.java
+F:\回去用\productManage\src\main\java\service\userService.java
+F:\回去用\productManage\src\main\java\servlet\LoginServlet.java
